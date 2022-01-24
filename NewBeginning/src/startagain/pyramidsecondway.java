@@ -13,7 +13,7 @@ public class pyramidsecondway
 		      {
 		        System.out.print("  ");
 		      }
-		      while (k != 2 * i - 1) 
+		      while (k != 2 * i -1) 
 		      {
 		    	  System.out.print("* ");
 		          ++k;
