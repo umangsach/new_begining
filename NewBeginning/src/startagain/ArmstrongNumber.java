@@ -13,7 +13,7 @@ public class ArmstrongNumber
 			number=number/10;
 			length=length+1;
 		}
-		System.out.println("length is "+length);
+		System.out.println("length is  "+length);
 		
 	}
 	public void armstrong(int number) 
